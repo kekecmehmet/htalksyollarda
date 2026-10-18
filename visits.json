@@ -1,0 +1,20 @@
+{
+  "visits": [
+    {
+      "plate": "74",
+      "team": "Bartınspor",
+      "logo": "assets/bartinspor-transparent.png",
+      "color": "#d60000",
+      "videoUrl": "https://www.youtube.com/live/4Y_7Duhlb-E",
+      "visitOrder": 2
+    },
+    {
+      "plate": "38",
+      "team": "Kayserispor",
+      "logo": "assets/kayserispor.webp",
+      "color": "#f9bf14",
+      "videoUrl": "https://www.youtube.com/live/IdGRH3lRC0I",
+      "visitOrder": 1
+    }
+  ]
+}
