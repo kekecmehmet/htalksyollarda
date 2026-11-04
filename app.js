@@ -35,7 +35,7 @@ function render(){
 }
 async function init(){
  try{
-  const [mapRes,dataRes]=await Promise.all([fetch('assets/turkiye.svg'),fetch('visits.json')]);if(!mapRes.ok||!dataRes.ok)throw Error('Dosyalar yüklenemedi');
+  const [mapRes,dataRes]=await Promise.all([fetch('assets/turkiye.svg'),fetch('visits.json', {cache:'no-store'})]);if(!mapRes.ok||!dataRes.ok)throw Error('Dosyalar yüklenemedi');
   const svg=new DOMParser().parseFromString(await mapRes.text(),'image/svg+xml').documentElement;
   if(svg.localName!=='svg')throw Error('Geçersiz harita');$('#map').replaceChildren(document.importNode(svg,true));
   const all=[...$('#map').querySelectorAll('[data-plakakodu]')];
