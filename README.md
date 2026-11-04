@@ -23,3 +23,7 @@ python3 -m http.server 4173
 Ziyaret kanıtları `visit-evidence.md`, görsel kaynaklar `credits.html`, harita lisansı `MAP-LICENSE` dosyasındadır. Logo ve marka hakları ilgili sahiplerine aittir.
 
 Hazırlayan: https://kekecmehmet.github.io
+
+## Otomatik kontrol
+
+Codex masaüstü görevi her gün 09.00 (Europe/Istanbul) yayın altyazılarını kontrol eder. Bilgisayar ve uygulama açık olmalıdır. İşleyiş: [AUTOMATION.md](AUTOMATION.md); inceleme durumu: [scan-state.json](scan-state.json).

@@ -1,0 +1,30 @@
+{
+  "channel": "https://www.youtube.com/@HTalksYoutube/streams",
+  "checkedAt": "2026-11-05",
+  "reviewedVideoIds": [
+    "j0hVDT5a_No",
+    "OnSYvfOJBHk",
+    "1Ihmb-ozYjU",
+    "YpYg8lYxVqY",
+    "6duIe8taMXo",
+    "I1snukaMa3c",
+    "-tipR9QfuI4",
+    "3M9cu7yCu00",
+    "nOTKztXYSFM",
+    "rw6-yLEpreA",
+    "6nCiA0pPmxs",
+    "B4o3jzUQvls",
+    "4Y_7Duhlb-E",
+    "kIzTCiE4whM",
+    "jwJQUAp-f-E",
+    "yHcsOCAScPc",
+    "IdGRH3lRC0I"
+  ],
+  "pending": [
+    {
+      "videoId": "sgVpEd48qqo",
+      "reason": "Live transcript unavailable; Burdur confirmed by user",
+      "confirmedPlate": "15"
+    }
+  ]
+}

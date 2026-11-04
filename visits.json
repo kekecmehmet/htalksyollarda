@@ -15,6 +15,22 @@
       "color": "#f9bf14",
       "videoUrl": "https://www.youtube.com/live/IdGRH3lRC0I",
       "visitOrder": 1
+    },
+    {
+      "plate": "44",
+      "team": "Yeni Malatyaspor",
+      "logo": "assets/yeni-malatyaspor.png",
+      "color": "#ffcf00",
+      "videoUrl": "https://www.youtube.com/watch?v=1Ihmb-ozYjU",
+      "visitOrder": 3
+    },
+    {
+      "plate": "15",
+      "team": "Burdurspor",
+      "logo": "assets/burdurspor.png",
+      "color": "#007fbd",
+      "videoUrl": "https://www.youtube.com/watch?v=sgVpEd48qqo",
+      "visitOrder": 4
     }
   ]
 }
