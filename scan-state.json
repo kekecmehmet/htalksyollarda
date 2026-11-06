@@ -1,6 +1,6 @@
 {
   "channel": "https://www.youtube.com/@HTalksYoutube/streams",
-  "checkedAt": "2026-11-05",
+  "checkedAt": "2026-11-06",
   "reviewedVideoIds": [
     "j0hVDT5a_No",
     "OnSYvfOJBHk",
@@ -18,13 +18,9 @@
     "kIzTCiE4whM",
     "jwJQUAp-f-E",
     "yHcsOCAScPc",
-    "IdGRH3lRC0I"
+    "IdGRH3lRC0I",
+    "sgVpEd48qqo",
+    "hlqgFf11W3c"
   ],
-  "pending": [
-    {
-      "videoId": "sgVpEd48qqo",
-      "reason": "Live transcript unavailable; Burdur confirmed by user",
-      "confirmedPlate": "15"
-    }
-  ]
+  "pending": []
 }
