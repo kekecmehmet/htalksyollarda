@@ -31,6 +31,14 @@
       "color": "#007fbd",
       "videoUrl": "https://www.youtube.com/watch?v=sgVpEd48qqo",
       "visitOrder": 4
+    },
+    {
+      "plate": "23",
+      "team": "Elazığspor",
+      "logo": "assets/elazigspor.png",
+      "color": "#720c24",
+      "videoUrl": "https://www.youtube.com/watch?v=6GaktqZRLEc",
+      "visitOrder": 5
     }
   ]
 }
