@@ -32,3 +32,9 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 - https://www.youtube.com/watch?v=ktHSGxQhjdE (Galatasaray–Amed SK) ve https://www.youtube.com/watch?v=stNomgnkYms (Çorum FK–Fenerbahçe) altyazıları kontrol edildi. Elazığ konuşmaları sonraki yayının planı; bu videolar ziyaret bağlantısı yapılmadı.
 - Beşiktaş–Gençlerbirliği yayınında 1:26:12'de Muş gelecek hafta için planlanıyor; gerçekleşmiş gezi sayılmadı.
 - İlk GitHub bağlantısında DNS hatası oluştu; sonraki fetch başarılı oldu.
+
+## 13 Kasım 2026 otomatik kontrolü
+
+- Kanalın son yüklenen yayınları arasında yeni https://www.youtube.com/watch?v=RKCSlPROCOw (Türkiye–Belçika) yayınının Türkçe otomatik altyazısı kontrol edildi. Yeni sanal şehir gezisi doğrulanmadı.
+- 48:03–49:22 arasındaki konuşma kişisel seyahatler ve vloglarla ilgili. 1:49:50–1:50:40 arasındaki Burdur konuşması önceki geziye gönderme; Isparta ve Antalya sözleri sohbet/gelecek ihtimali. Cadde veya mahalle üzerinde devam eden bir sanal gezi bulunmadığından şehir eklenmedi, Burdur bağlantısı değiştirilmedi.
+- İlk kanal bağlantısı başarısız oldu; yeniden açılışta kanal ve altyazı başarıyla alındı. Bekleyen yayın yok; harita beş şehir olarak korundu.

@@ -1,6 +1,6 @@
 {
   "channel": "https://www.youtube.com/@HTalksYoutube/streams",
-  "checkedAt": "2026-11-12",
+  "checkedAt": "2026-11-13",
   "reviewedVideoIds": [
     "j0hVDT5a_No",
     "OnSYvfOJBHk",
@@ -23,12 +23,13 @@
     "hlqgFf11W3c",
     "ktHSGxQhjdE",
     "stNomgnkYms",
-    "6GaktqZRLEc"
+    "6GaktqZRLEc",
+    "RKCSlPROCOw"
   ],
   "pending": [],
   "lastCheckResult": {
-    "latestVideoId": "6GaktqZRLEc",
-    "newVideos": 0,
+    "latestVideoId": "RKCSlPROCOw",
+    "newVideos": 1,
     "pendingVideos": 0,
     "addedPlates": []
   }
