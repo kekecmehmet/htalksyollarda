@@ -38,3 +38,8 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 - Kanalın son yüklenen yayınları arasında yeni https://www.youtube.com/watch?v=RKCSlPROCOw (Türkiye–Belçika) yayınının Türkçe otomatik altyazısı kontrol edildi. Yeni sanal şehir gezisi doğrulanmadı.
 - 48:03–49:22 arasındaki konuşma kişisel seyahatler ve vloglarla ilgili. 1:49:50–1:50:40 arasındaki Burdur konuşması önceki geziye gönderme; Isparta ve Antalya sözleri sohbet/gelecek ihtimali. Cadde veya mahalle üzerinde devam eden bir sanal gezi bulunmadığından şehir eklenmedi, Burdur bağlantısı değiştirilmedi.
 - İlk kanal bağlantısı başarısız oldu; yeniden açılışta kanal ve altyazı başarıyla alındı. Bekleyen yayın yok; harita beş şehir olarak korundu.
+
+## 22 Kasım 2026 otomatik kontrolü
+
+- Yeni https://www.youtube.com/watch?v=IniboT64Mg4 (Kocaelispor–Fenerbahçe | Galatasaray–Samsunspor) yayınının Türkçe otomatik altyazısı kontrol edildi. Yeni sanal şehir gezisi doğrulanmadı. Şehir adları maç ve kulüp sohbetinde geçiyor; 1:18:57 civarındaki Samsun konuşması maçın oynanacağı stadyumla ilgili. Yayının son bölümü futbolcu açık artırma oyunu ve kapanıştan oluşuyor; cadde/mahalle üzerinde gezinme yok.
+- Bekleyen yayın yok; harita beş şehir olarak korundu.
