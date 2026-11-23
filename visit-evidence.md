@@ -43,3 +43,9 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 
 - Yeni https://www.youtube.com/watch?v=IniboT64Mg4 (Kocaelispor–Fenerbahçe | Galatasaray–Samsunspor) yayınının Türkçe otomatik altyazısı kontrol edildi. Yeni sanal şehir gezisi doğrulanmadı. Şehir adları maç ve kulüp sohbetinde geçiyor; 1:18:57 civarındaki Samsun konuşması maçın oynanacağı stadyumla ilgili. Yayının son bölümü futbolcu açık artırma oyunu ve kapanıştan oluşuyor; cadde/mahalle üzerinde gezinme yok.
 - Bekleyen yayın yok; harita beş şehir olarak korundu.
+
+## 23 Kasım 2026 otomatik kontrolü
+
+- Yeni https://www.youtube.com/watch?v=NyidFIiIJOQ (Konyaspor–Beşiktaş | Maç Sonu Değerlendirmesi) yayınının Türkçe otomatik altyazısı kontrol edildi. İlk altyazı denemesi sonuç vermedi; sayfa yüklendikten sonraki ikinci denemede altyazı alındı.
+- Yeni sanal şehir gezisi doğrulanmadı. 8:22 civarındaki Konya şehri sözü teknik direktör tercihine, 51:22–51:59 arasındaki Antalya/Kayseri/Bursa konuşması kulüplerin lig ve ekonomi durumuna ilişkin. Devamında komedi skeci izleniyor; 1:30:36 sonrasında açık artırma oyunlarına geçiliyor. 1:51:39–1:51:49 arasındaki şehirler futbolcu kariyerleriyle ilgili. Cadde/mahalle üzerinde devam eden bir sanal gezi bulunmadı.
+- Bekleyen yayın yok; harita beş şehir olarak korundu.
