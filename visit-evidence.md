@@ -49,3 +49,8 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 - Yeni https://www.youtube.com/watch?v=NyidFIiIJOQ (Konyaspor–Beşiktaş | Maç Sonu Değerlendirmesi) yayınının Türkçe otomatik altyazısı kontrol edildi. İlk altyazı denemesi sonuç vermedi; sayfa yüklendikten sonraki ikinci denemede altyazı alındı.
 - Yeni sanal şehir gezisi doğrulanmadı. 8:22 civarındaki Konya şehri sözü teknik direktör tercihine, 51:22–51:59 arasındaki Antalya/Kayseri/Bursa konuşması kulüplerin lig ve ekonomi durumuna ilişkin. Devamında komedi skeci izleniyor; 1:30:36 sonrasında açık artırma oyunlarına geçiliyor. 1:51:39–1:51:49 arasındaki şehirler futbolcu kariyerleriyle ilgili. Cadde/mahalle üzerinde devam eden bir sanal gezi bulunmadı.
 - Bekleyen yayın yok; harita beş şehir olarak korundu.
+
+## 25 Kasım 2026 otomatik kontrolü
+
+- Yeni https://www.youtube.com/watch?v=u8GvoAdInPg (Galatasaray–Aston Villa | Maç Sonu Değerlendirmesi) yayınının Türkçe otomatik altyazısı kontrol edildi. Yeni sanal şehir gezisi doğrulanmadı. 2:01 civarında Eskişehir haber bağlamında, 46:28 civarındaki Kayseri sözü futbol kariyeri anlatısında geçiyor. Yayının sonraki bölümleri futbol sohbeti, açık artırma ve quiz oyunlarından oluşuyor; 1:40:21 civarındaki Adana sözü dürüm malzemeleri oyunundaki yemek sohbeti. Cadde/mahalle üzerinde devam eden bir sanal gezi bulunmadı.
+- Bekleyen yayın yok; harita beş şehir olarak korundu.
