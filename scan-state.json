@@ -1,6 +1,6 @@
 {
   "channel": "https://www.youtube.com/@HTalksYoutube/streams",
-  "checkedAt": "2026-11-25",
+  "checkedAt": "2026-11-26",
   "reviewedVideoIds": [
     "j0hVDT5a_No",
     "OnSYvfOJBHk",
@@ -29,11 +29,19 @@
     "NyidFIiIJOQ",
     "u8GvoAdInPg"
   ],
-  "pending": [],
+  "pending": [
+    {
+      "videoId": "cAVdV3LVhsg",
+      "title": "Shakthar-Fenerbahçe | Maç Sonu Değerlendirmesi",
+      "url": "https://www.youtube.com/watch?v=cAVdV3LVhsg",
+      "reason": "Altyazı sayfa yüklendikten sonraki tekrar denemesinde de alınamadı; sonraki kontrolde yeniden denenecek.",
+      "lastAttemptAt": "2026-11-26"
+    }
+  ],
   "lastCheckResult": {
-    "latestVideoId": "u8GvoAdInPg",
+    "latestVideoId": "cAVdV3LVhsg",
     "newVideos": 1,
-    "pendingVideos": 0,
+    "pendingVideos": 1,
     "addedPlates": []
   }
 }

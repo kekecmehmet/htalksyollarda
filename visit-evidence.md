@@ -54,3 +54,8 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 
 - Yeni https://www.youtube.com/watch?v=u8GvoAdInPg (Galatasaray–Aston Villa | Maç Sonu Değerlendirmesi) yayınının Türkçe otomatik altyazısı kontrol edildi. Yeni sanal şehir gezisi doğrulanmadı. 2:01 civarında Eskişehir haber bağlamında, 46:28 civarındaki Kayseri sözü futbol kariyeri anlatısında geçiyor. Yayının sonraki bölümleri futbol sohbeti, açık artırma ve quiz oyunlarından oluşuyor; 1:40:21 civarındaki Adana sözü dürüm malzemeleri oyunundaki yemek sohbeti. Cadde/mahalle üzerinde devam eden bir sanal gezi bulunmadı.
 - Bekleyen yayın yok; harita beş şehir olarak korundu.
+
+## 26 Kasım 2026 otomatik kontrolü
+
+- Kanalın son yüklenen yayınlarında yeni https://www.youtube.com/watch?v=cAVdV3LVhsg (Shakthar–Fenerbahçe | Maç Sonu Değerlendirmesi) bulundu. Altyazı ilk denemede ve sayfa başlığı yüklendikten sonraki ikinci denemede alınamadı. Yayın incelenmiş sayılmadı; sonraki kontrol için bekleyenlere eklendi.
+- Doğrulanmış yeni gezi olmadığından harita beş şehir olarak korundu.
