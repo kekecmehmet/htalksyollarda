@@ -1,6 +1,6 @@
 {
   "channel": "https://www.youtube.com/@HTalksYoutube/streams",
-  "checkedAt": "2026-11-26",
+  "checkedAt": "2026-11-27",
   "reviewedVideoIds": [
     "j0hVDT5a_No",
     "OnSYvfOJBHk",
@@ -27,19 +27,20 @@
     "RKCSlPROCOw",
     "IniboT64Mg4",
     "NyidFIiIJOQ",
-    "u8GvoAdInPg"
+    "u8GvoAdInPg",
+    "cAVdV3LVhsg"
   ],
   "pending": [
     {
-      "videoId": "cAVdV3LVhsg",
-      "title": "Shakthar-Fenerbahçe | Maç Sonu Değerlendirmesi",
-      "url": "https://www.youtube.com/watch?v=cAVdV3LVhsg",
+      "videoId": "rXGy05kVhZw",
+      "title": "Beşiktaş-Hapoel | Maç Sonu Değerlendirmesi",
+      "url": "https://www.youtube.com/watch?v=rXGy05kVhZw",
       "reason": "Altyazı sayfa yüklendikten sonraki tekrar denemesinde de alınamadı; sonraki kontrolde yeniden denenecek.",
-      "lastAttemptAt": "2026-11-26"
+      "lastAttemptAt": "2026-11-27"
     }
   ],
   "lastCheckResult": {
-    "latestVideoId": "cAVdV3LVhsg",
+    "latestVideoId": "rXGy05kVhZw",
     "newVideos": 1,
     "pendingVideos": 1,
     "addedPlates": []

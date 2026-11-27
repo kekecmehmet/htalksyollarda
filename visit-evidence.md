@@ -59,3 +59,8 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 
 - Kanalın son yüklenen yayınlarında yeni https://www.youtube.com/watch?v=cAVdV3LVhsg (Shakthar–Fenerbahçe | Maç Sonu Değerlendirmesi) bulundu. Altyazı ilk denemede ve sayfa başlığı yüklendikten sonraki ikinci denemede alınamadı. Yayın incelenmiş sayılmadı; sonraki kontrol için bekleyenlere eklendi.
 - Doğrulanmış yeni gezi olmadığından harita beş şehir olarak korundu.
+
+## 27 Kasım 2026 otomatik kontrolü
+
+- Bekleyen https://www.youtube.com/watch?v=cAVdV3LVhsg (Shakthar–Fenerbahçe) yayınının Türkçe otomatik altyazısı alındı ve incelendi. Yeni şehir gezisi doğrulanmadı. 29:18–29:46 arasındaki seyahat konuşması taraftarların deplasmanlara gitmesiyle ilgili; 1:04:25–1:04:33 şehir sözü okul seçimi sohbetinde geçiyor. 1:31:44–1:32:04 arasındaki şehri gezme anlatısı Grand Theft Auto oyununa ilişkin; Türkiye sokak görüntüsü gezisi değil. Yayın futbol sohbeti ve hikâye anlatımıyla kapanıyor. Kayıt bekleyenlerden çıkarıldı.
+- Yeni https://www.youtube.com/watch?v=rXGy05kVhZw (Beşiktaş–Hapoel) yayınının altyazısı ilk denemede ve sayfa başlığı yüklendikten sonraki ikinci denemede alınamadı. İncelenmiş sayılmadı; sonraki kontrol için bekleyenlere eklendi. Harita beş şehir olarak korundu.
