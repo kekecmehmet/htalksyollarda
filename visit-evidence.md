@@ -64,3 +64,9 @@ Ek kontrol: `https://www.youtube.com/watch?v=kIzTCiE4whM` (Hoffenheim–Beşikta
 
 - Bekleyen https://www.youtube.com/watch?v=cAVdV3LVhsg (Shakthar–Fenerbahçe) yayınının Türkçe otomatik altyazısı alındı ve incelendi. Yeni şehir gezisi doğrulanmadı. 29:18–29:46 arasındaki seyahat konuşması taraftarların deplasmanlara gitmesiyle ilgili; 1:04:25–1:04:33 şehir sözü okul seçimi sohbetinde geçiyor. 1:31:44–1:32:04 arasındaki şehri gezme anlatısı Grand Theft Auto oyununa ilişkin; Türkiye sokak görüntüsü gezisi değil. Yayın futbol sohbeti ve hikâye anlatımıyla kapanıyor. Kayıt bekleyenlerden çıkarıldı.
 - Yeni https://www.youtube.com/watch?v=rXGy05kVhZw (Beşiktaş–Hapoel) yayınının altyazısı ilk denemede ve sayfa başlığı yüklendikten sonraki ikinci denemede alınamadı. İncelenmiş sayılmadı; sonraki kontrol için bekleyenlere eklendi. Harita beş şehir olarak korundu.
+
+## 28 Kasım 2026 otomatik kontrolü
+
+- Kanalın son yüklenen yayınlarında yeni yayın bulunmadı. Bekleyen https://www.youtube.com/watch?v=rXGy05kVhZw (Beşiktaş–Hapoel) yayınının Türkçe otomatik altyazısı alındı ve incelendi. Yeni sanal şehir gezisi doğrulanmadı.
+- 1:20:50–1:27:38 arasındaki çok sayıda il adı, sevilen şehirlerden bir ilk 10 listesi oluşturma sohbetinde geçiyor; sokak görüntülerinde devam eden bir gezi değil. 1:26:11–1:26:58 Samsun konuşması geçmişte üniversite ve pideci ziyaretinin hatırlanması. 1:32:46–1:33:06 Nevşehir'in listeye alınması da aynı sıralamaya ilişkin; haritaya eklenmedi. Yayının başındaki Gürcistan/Batum ve Rize sözleri maçın yeri, ulaşım ve taraftar olaylarıyla ilgili.
+- Kayıt bekleyenlerden çıkarıldı; bekleyen yayın kalmadı. Harita beş şehir olarak korundu.

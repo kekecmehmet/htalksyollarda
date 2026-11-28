@@ -1,6 +1,6 @@
 {
   "channel": "https://www.youtube.com/@HTalksYoutube/streams",
-  "checkedAt": "2026-11-27",
+  "checkedAt": "2026-11-28",
   "reviewedVideoIds": [
     "j0hVDT5a_No",
     "OnSYvfOJBHk",
@@ -28,21 +28,14 @@
     "IniboT64Mg4",
     "NyidFIiIJOQ",
     "u8GvoAdInPg",
-    "cAVdV3LVhsg"
+    "cAVdV3LVhsg",
+    "rXGy05kVhZw"
   ],
-  "pending": [
-    {
-      "videoId": "rXGy05kVhZw",
-      "title": "Beşiktaş-Hapoel | Maç Sonu Değerlendirmesi",
-      "url": "https://www.youtube.com/watch?v=rXGy05kVhZw",
-      "reason": "Altyazı sayfa yüklendikten sonraki tekrar denemesinde de alınamadı; sonraki kontrolde yeniden denenecek.",
-      "lastAttemptAt": "2026-11-27"
-    }
-  ],
+  "pending": [],
   "lastCheckResult": {
     "latestVideoId": "rXGy05kVhZw",
-    "newVideos": 1,
-    "pendingVideos": 1,
+    "newVideos": 0,
+    "pendingVideos": 0,
     "addedPlates": []
   }
 }
